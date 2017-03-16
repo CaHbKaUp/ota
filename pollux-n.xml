@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <stable>
         <pollux>
-            <Filename>RR-N-v5.8.2-20170301-pollux-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170316-pollux-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://basketbuild.com/uploads/devs/CaHbKa/pollux/ResurrectionRemix/RR-N-v5.8.2-20170301-pollux-Unofficial.zip</RomUrl>
+                description="Download latest builds">https://basketbuild.com/uploads/devs/CaHbKa/pollux/ResurrectionRemix/RR-N-v5.8.2-20170316-pollux-Unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -21,11 +21,11 @@
                 description="Visit pollux thread on xda">http://forum.xda-developers.com/-/-t3507996</XDAUrl>
         </pollux>
         <pollux_windy>
-            <Filename>RR-N-v5.8.2-20170301-pollux_windy-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.2-20170316-pollux_windy-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://basketbuild.com/uploads/devs/CaHbKa/pollux_windy/ResurrectionRemix/RR-N-v5.8.2-20170301-pollux_windy-Unofficial.zip</RomUrl>
+                description="Download latest builds">https://basketbuild.com/uploads/devs/CaHbKa/pollux_windy/ResurrectionRemix/RR-N-v5.8.2-20170316-pollux_windy-Unofficial.zip</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
