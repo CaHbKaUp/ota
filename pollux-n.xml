@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <stable>
         <pollux>
-            <Filename>RR-N-v5.8.3-20170708-pollux-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170809-pollux-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://www.androidfilehost.com/?fid=961840155545580397</RomUrl>
+                description="Download latest builds">https://www.androidfilehost.com/?fid=673368273298977547</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -21,11 +21,11 @@
                 description="Visit pollux thread on xda">http://forum.xda-developers.com/-/-t3507996</XDAUrl>
         </pollux>
         <pollux_windy>
-            <Filename>RR-N-v5.8.3-20170708-pollux_windy-Unofficial.zip</Filename>
+            <Filename>RR-N-v5.8.4-20170809-pollux_windy-Unofficial.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://www.androidfilehost.com/?fid=817550096634784593</RomUrl>
+                description="Download latest builds">https://www.androidfilehost.com/?fid=673368273298977548</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
