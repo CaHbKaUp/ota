@@ -2,11 +2,11 @@
 <SlimOTA xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ota.xsd">
     <stable>
         <pollux>
-            <Filename>crDroidAndroid-7.1.2-20170709-pollux-v3.5.zip</Filename>
+            <Filename>crDroidAndroid-7.1.2-20170809-pollux-v3.6.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://www.androidfilehost.com/?fid=745425885120747323</RomUrl>
+                description="Download latest builds">https://www.androidfilehost.com/?fid=673368273298977634</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
@@ -21,11 +21,11 @@
                 description="Visit pollux thread on xda">http://forum.xda-developers.com/-/-t3533247</XDAUrl>
         </pollux>
         <pollux_windy>
-            <Filename>crDroidAndroid-7.1.2-20170709-pollux_windy-v3.5.zip</Filename>
+            <Filename>crDroidAndroid-7.1.2-20170809-pollux_windy-v3.6.zip</Filename>
             <RomUrl
                 id="rom"
                 title="Rom"
-                description="Download latest builds">https://www.androidfilehost.com/?fid=673368273298970140</RomUrl>
+                description="Download latest builds">https://www.androidfilehost.com/?fid=673368273298977635</RomUrl>
             <ChangelogUrl
                 id="changelog"
                 title="Changelog"
