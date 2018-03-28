@@ -1,0 +1,9 @@
+Device Specific Changes:
+Xperia Tablet Z LTE(pollux)|Maintainer: CaHbKaUp
+
+ ==============
+  crDroid v4.1 - Mar 28, 2018
+ ==============
+
+* Refer ROM changelog
+
