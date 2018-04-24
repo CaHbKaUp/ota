@@ -21,7 +21,7 @@
             <pollux>
                   <maintainer>CaHbKaUp</maintainer>
                   <devicename>Xperia Tablet Z LTE</devicename>
-                  <filename>crDroidAndroid-8.1-20180328-pollux-v4.1</filename>
+                  <filename>crDroidAndroid-8.1-20180406-pollux-v4.1</filename>
                   <buildtype>Weekly</buildtype>
                   <download>https://goo.gl/xY91Ny</download>
                   <changelog>https://raw.githubusercontent.com/CaHbKaUp/ota/crDroidAndroid/changelog_pollux.txt</changelog>
@@ -31,7 +31,7 @@
             <pollux_windy>
                   <maintainer>CaHbKaUp</maintainer>
                   <devicename>Xperia Tablet Z Wi-Fi</devicename>
-                  <filename>crDroidAndroid-8.1-20180328-pollux_windy-v4.1</filename>
+                  <filename>crDroidAndroid-8.1-20180406-pollux_windy-v4.1</filename>
                   <buildtype>Weekly</buildtype>
                   <download>https://goo.gl/xY91Ny</download>
                   <changelog>https://raw.githubusercontent.com/CaHbKaUp/ota/crDroidAndroid/changelog_pollux_windy.txt</changelog>
